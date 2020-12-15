@@ -3,7 +3,7 @@
 ## Instructions (mac)
 
 ### Get Python3
-Open your terminal and run the commands in syntax highlighting.
+Open your terminal and run these commands.
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
