@@ -145,7 +145,7 @@ print("Began searching at %s" % datetime.now().time())
 window_size = "--window-size=1920,1200"
 homepage = "https://www.epicpass.com/"
 options = Options()
-#options.headless = True
+options.headless = True
 options.add_argument(window_size)
 driver = webdriver.Chrome(options=options)
 driver.get(homepage)
